@@ -1,0 +1,8 @@
+/home/yyc/桌面/test2222/OPRF-PSI/CMakeFiles/rebuild_cache.dir
+/home/yyc/桌面/test2222/OPRF-PSI/CMakeFiles/edit_cache.dir
+/home/yyc/桌面/test2222/OPRF-PSI/PSI/CMakeFiles/rebuild_cache.dir
+/home/yyc/桌面/test2222/OPRF-PSI/PSI/CMakeFiles/PSI.dir
+/home/yyc/桌面/test2222/OPRF-PSI/PSI/CMakeFiles/edit_cache.dir
+/home/yyc/桌面/test2222/OPRF-PSI/PSI_test/CMakeFiles/rebuild_cache.dir
+/home/yyc/桌面/test2222/OPRF-PSI/PSI_test/CMakeFiles/PSI_test.dir
+/home/yyc/桌面/test2222/OPRF-PSI/PSI_test/CMakeFiles/edit_cache.dir
